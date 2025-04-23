@@ -1,0 +1,17 @@
+body{
+    background-color: gray;
+}
+#wrapper{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: black;
+}
+#submit{
+    height: 50px;
+    width: 90px;
+    border-radius: 10px;
+    
+}
